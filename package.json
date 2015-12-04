@@ -1,0 +1,22 @@
+{
+  "name": "renegade",
+  "author": "Ben Newman <ben@benjamn.com>",
+  "version": "0.0.1",
+  "description": "Iconoclasm in a tidy package.",
+  "main": "index.js",
+  "keywords": [
+    "rewriting",
+    "refactoring",
+    "reimagining",
+    "reification"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamn/renegade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benjamn/renegade/issues"
+  },
+  "homepage": "https://github.com/benjamn/renegade#readme"
+}
